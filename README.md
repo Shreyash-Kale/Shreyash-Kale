@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash</h1>
-<h3 align="center">A passionate frontend and AI developer from India</h3>
+<h3 align="center">Driven UI Developer with a passion for Deep Learning, crafting engaging web and mobile experiences bridging the gap between AI and human touch. Building interfaces that learn, evolve, and feel.</h3>
 
 - 👨‍💻 All of my projects are available at [portfolio-ixo8ffgy0-shreyash-kales-projects.vercel.app](portfolio-ixo8ffgy0-shreyash-kales-projects.vercel.app)
 
